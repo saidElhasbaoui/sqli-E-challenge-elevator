@@ -4,7 +4,7 @@ This test is about a building having several elevators with different states. Fo
 
 Please note these rules :
 
--An elevator is requested by default from top floor.
+-An elevator is requested by default from top floor."\n"
 -An elevator can be resting at a given floor, going up or going down.
 -An elevator switch automatically his direction when reaching the edges of
 -the building (means the first and top floors).
